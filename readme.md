@@ -1,5 +1,5 @@
-# :bird::bird::bird:Birds of a feather:bird::bird::bird:
-# :bird::bird::bird:make image sliders:bird::bird::bird:
+# :bird:Birds of a feather:bird:
+# :bird:make image sliders together:bird:
 
 ### Objectives
 
